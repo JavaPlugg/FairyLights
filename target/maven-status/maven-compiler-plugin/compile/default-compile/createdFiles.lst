@@ -1,0 +1,8 @@
+net\javaplugg\minecraft\fairylights\item\Items.class
+net\javaplugg\minecraft\fairylights\listener\FairyLightsListener.class
+net\javaplugg\minecraft\fairylights\blocklight\BlockLight.class
+net\javaplugg\minecraft\fairylights\spawner\FairyLightsSpawner.class
+net\javaplugg\minecraft\fairylights\math\CurveMath.class
+net\javaplugg\minecraft\fairylights\recipe\Recipes.class
+net\javaplugg\minecraft\fairylights\FairyLightsPlugin.class
+net\javaplugg\minecraft\fairylights\math\MathUtil.class
