@@ -39,11 +39,10 @@ public class Recipes {
         Items.ITEM_MAP.forEach((id, itemStack) -> {
             ShapedRecipe recipe = createRecipe(id, itemStack);
             recipe.shape(
-                    "AAA",
+                    "   ",
                     "SDS",
-                    "ALA"
+                    " L "
             );
-            recipe.setIngredient('A', Material.AIR);
             recipe.setIngredient('S', Material.STRING);
             recipe.setIngredient('L', Material.REDSTONE_LAMP);
             recipe.setIngredient('D', DYE_MAP.get(id));
